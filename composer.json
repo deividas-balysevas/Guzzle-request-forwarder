@@ -1,0 +1,12 @@
+{
+    "name": "slowas/php_proxy",
+    "authors": [
+        {
+            "name": "slowas",
+            "email": "exception321@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/proxy": "^3.1"
+    }
+}
