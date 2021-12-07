@@ -2,7 +2,7 @@
 
 require './vendor/autoload.php';
 
-const URL_API = 'http://modus.modusgroup.lt:8084/api';
+const URL_API = 'http://****.*******.lt:443/api';
 
 use Proxy\Proxy;
 use Proxy\Adapter\Guzzle\GuzzleAdapter;
